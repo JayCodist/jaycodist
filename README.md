@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋
-- 🔭 I’m currently working on fintech platforms for African financial institutions
+- 🔭 I’m currently working on building innovative fintech platforms for African financial institutions
 - 👯 I’m looking to collaborate on MERN stack projects
 - ⚡ Fun fact: I'm a fantastic cook 😄
 
