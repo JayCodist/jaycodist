@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaycodist&show_icons=true&count_private=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eniayomi&langs_count=5&theme=radical)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jaycodist&langs_count=5&theme=radical)]()
