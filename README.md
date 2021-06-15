@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#Hi there 👋
+# Hi there 👋
 - 🔭 I’m currently working on fintech platforms for African financial institutions
 - 👯 I’m looking to collaborate on MERN stack projects
 - ⚡ Fun fact: I'm a fantastic cook 😄
